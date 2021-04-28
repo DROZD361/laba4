@@ -1,0 +1,16 @@
+{
+  "name": "lab4",
+  "displayName": "lab4",
+  "expo": {
+    "name": "Laba 4",
+    "slug": "laba-4",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "description": "",
+    "android": {
+      "package": "com.dc_maxin.laba5"
+    }
+  }
+}
